@@ -1,0 +1,155 @@
+body{
+    background: url("photo/back.jpg")no-repeat;
+   background-size: cover;
+   cursor: pointer;
+}
+
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover
+{
+    color:red;
+    background-color:black;
+    font-size:24px;
+    font-family:New Century Schoolbook, serif;
+    font-style:italic;
+    font-weight:700px;
+    cursor: pointer;
+}
+    
+
+.nav-pills>li>a, .nav-pills>li>a:focus, .nav-pills>li>a:hover{
+    background-color:black;
+    color: whitesmoke;
+    padding: 15px 30px;
+    margin-left:-20px;
+}
+.nav-pills>li.active>a {
+    position: relative;
+    right:94%;
+    display: block;
+    padding: 15px 25px;
+    
+}
+.nav-pills>li.a>a{
+    background-color:black;
+    color:darkturquoise;
+    padding: 20px 30px;
+    margin-left:5px;
+    font-family:Zapf Chancery, cursive;
+    font-style:italic;
+    font-weight:700px;
+    font-size:17px;
+    border-radius: 8px;
+   
+}
+.nav-pills>li.b>a {
+    background-color:black;
+    color: darkorange;
+    padding: 17px 25px;
+    margin-left:5px;
+    font-family:Zapf Chancery, cursive;
+    font-style:italic;
+    font-weight:700px;
+    font-size:17px;
+    
+    border-radius: 8px;
+}
+.nav-pills>li.c>a 
+    {
+    background-color:black;
+    color:cornflowerblue;
+    padding: 15px 15px;
+    margin-left:5px;
+    font-family:Zapf Chancery, cursive;
+    font-style:italic;
+    font-weight:700px;
+    font-size:17px;
+  
+    border-radius: 8px;
+    }
+    .nav-pills>li.d>a 
+    {
+        background-color:black;
+        color: greenyellow;
+        padding: 15px 17px;
+        margin-left:5px;
+        font-family:Zapf Chancery, cursive;
+        font-style:italic;
+        font-weight:700px;
+        font-size:17px;
+        border-radius: 8px;
+        
+
+   
+    }
+    .nav-pills>li.e>a 
+    {
+        background-color:black;
+       
+        color: red;
+        padding: 17px 20px;
+        font-family:Zapf Chancery, cursive;
+        font-style:italic;
+        font-weight:700px;
+        font-size:17px;
+        margin-left:5px;
+        border-radius: 8px;
+    }
+    .nav-pills>li.f>a 
+    {
+        background-color:black;
+        color:burlywood ;
+        padding: 18px 28px;
+        margin-left:5px;
+        font-family:Zapf Chancery, cursive;
+        font-style:italic;
+        font-weight:700px;
+        font-size:17px;
+      
+        margin-left:5px;
+        border-radius: 8px;
+    }
+    .nav-pills>li.g>a 
+    {
+        background-color:black;
+        color:burlywood ;
+        padding: 18px 28px;
+        margin-left:5px;
+        font-family:Zapf Chancery, cursive;
+        font-style:italic;
+        font-weight:700px;
+        font-size:17px;
+      
+        margin-left:5px;
+        border-radius: 8px;
+    }
+    h3{
+       position: relative;
+       left:0%;
+       top:-240px;
+       font-size: 40px;
+       font-style: italic;
+       font-family: Coronetscript, cursive;
+       color:whitesmoke;
+       font-weight: bolder;
+    
+    }
+    .nav-pills>li.h>a 
+    {
+        background-color:darkred;
+        color:whitesmoke;
+        padding: 15px 150px;
+       position: relative;
+       left:85%;
+    
+        font-family:Zapf Chancery, cursive;
+        font-style:italic;
+        font-weight:700px;
+        font-size:20px;
+        margin-left:5px;
+        border-radius: 8px;
+        
+    }
+    
+    
+    
